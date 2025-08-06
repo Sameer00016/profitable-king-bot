@@ -4,4 +4,5 @@ numpy
 matplotlib
 ta
 ccxt
+ipywidgets
 requests
